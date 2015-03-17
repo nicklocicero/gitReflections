@@ -1,0 +1,26 @@
+﻿Diff helped me see typos by isolating lines of change
+
+It’s as easy as clicking undo, but even better because it uses versions by integrating them and isolating changes
+
+
+
+“commit ID”
+Author
+Date
+	“user comment”
+
+For using commits, not auto save: 
+Pros: easier to work iteratively, step by step
+Cons: need judgment to be practical
+
+Saving multiple files at once allows the pre-supposeed notion that files are pieces of one pie.
+Google docs files don’t rely on each other to function as one. Closest thing is just folders.
+
+Git log: see all commits in a log
+Git diff: see difference between versions of 2 commits
+
+Making changes that could break something is as easy clicking undo, but also working more confidently and quickly given that I don’t have to worry about getting lost in a mire of bugs.
+
+I want to use git to get my nanodegree and make real money programming for a loving living.  Create real world apps and sites that change the world.  Have that power!!  Yayah!!
+
+The staging area is like the green room in a playhouse.  It’s where files go before they are committed.  They can still be changed before the commit.  They are everything that will go with the commit.
